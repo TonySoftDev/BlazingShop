@@ -181,3 +181,11 @@ app {
         display: block;
     }
 }
+
+.modal{
+    background-color:dimgrey;
+}
+
+.modal-dialog{
+    max-width: 700px;
+}
